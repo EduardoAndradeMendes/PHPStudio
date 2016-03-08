@@ -1,10 +1,10 @@
-<!-- DO NOT DELETE - LEAVE THIS IN YOUR ISSUE -->
-<!--Before you make an issue, make sure your issue matches the criteria below-->
-<!-- PLEASE TICK THE BOXES -->
-- [ ] This issue includes appropriate markdown for sections - e.g. code blocks for error messages.
-- [ ] This issue is understandable - feel free to use your native language to write issues if you are not comfortable speaking in English
-<!-- If your issue matches this criteria, submit this issue with no worries. If it doesn't please fix the issue -->
---------------------
-<!-- ISSUE DESCRIPTION - write a bit about what problem you're having. -->
+<!-- DO NOT DELETE - LEAVE THIS IN YOUR ISSUE --> <br>
+<!--Before you make an issue, make sure your issue matches the criteria below--><br>
+<!-- PLEASE TICK THE BOXES --> <br>
+- [ ] This issue includes appropriate markdown for sections - e.g. code blocks for error messages.<br>
+- [ ] This issue is understandable - feel free to use your native language to write issues if you are not comfortable speaking in English<br>
+<!-- If your issue matches this criteria, submit this issue with no worries. If it doesn't please fix the issue --><br>
+--------------------<br><br>
+<!-- ISSUE DESCRIPTION - write a bit about what problem you're having. --><br>
 
-<!-- OPTIONAL INFORMATION - use this section for posting error messages, screenshots, and other problems with PHPStudio -->
+<!-- OPTIONAL INFORMATION - use this section for posting error messages, screenshots, and other problems with PHPStudio --><br>
